@@ -8,7 +8,7 @@ You should have received a copy of the GNU General Public License.
 If not, see: <http://www.gnu.org/licenses/>.
 */
 /*
-Version: 1.2.4
+Version: 1.2.5
 Stable tag: trunk
 Tested up to: 3.0.2
 Requires at least: 2.8.4

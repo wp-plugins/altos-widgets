@@ -1,8 +1,8 @@
 === Altos Widgets ===
 
-Version: 1.2.4
+Version: 1.2.7
 Stable tag: trunk
-Tested up to: 3.0.2
+Tested up to: 3.5
 Requires at least: 2.8.4
 Plugin Name: Altos Widgets
 
@@ -35,11 +35,14 @@ Easily embed tables and charts of current Altos Research real estate statistics 
 
 == Upgrade Notice ==
 
+= 1.2.7 =
+* Updated login features
+
 = 1.2.5 = 
-Updated to see if it shows up in the search feature again
+* Updated to see if it shows up in the search feature again
 
 = 1.2.4 =
-After upgrading, you'll need to re-insert any existing widgets that you've been using. In other words, after upgrading, all existing Altos Widgets that you currently have in your Sidebar, will automatically disappear, and you'll need to re-insert updated versions of each widget.
+* After upgrading, you'll need to re-insert any existing widgets that you've been using. In other words, after upgrading, all existing Altos Widgets that you currently have in your Sidebar, will automatically disappear, and you'll need to re-insert updated versions of each widget.
 
 == Changelog ==
 

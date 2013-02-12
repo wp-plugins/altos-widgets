@@ -8,9 +8,9 @@ You should have received a copy of the GNU General Public License.
 If not, see: <http://www.gnu.org/licenses/>.
 */
 /*
-Version: 1.2.5
+Version: 1.2.7
 Stable tag: trunk
-Tested up to: 3.0.2
+Tested up to: 3.5
 Requires at least: 2.8.4
 Plugin Name: Altos Widgets
 
@@ -34,7 +34,7 @@ class Altos_Widgets
 	{
 		var $s, $sz, $rt, $ra, $q, $ts, $l, $dir_url;
 		/**/
-		var $webservice = "https://www.altosresearch.com/altos/app";
+		var $webservice = "http://www.altosresearch.com/altos/app";
 		/*
 		Constructor.
 		*/

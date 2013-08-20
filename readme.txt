@@ -1,8 +1,8 @@
 === Altos Widgets ===
 
-Version: 1.2.7
+Version: 1.3.0
 Stable tag: trunk
-Tested up to: 3.5
+Tested up to: 3.6
 Requires at least: 2.8.4
 Plugin Name: Altos Widgets
 
@@ -34,6 +34,9 @@ Easily embed tables and charts of current Altos Research real estate statistics 
 2. Altos Widgets / Screenshot #4
 
 == Upgrade Notice ==
+
+= 1.3.0 =
+* Updated icons and confirmed working with 3.6
 
 = 1.2.7 =
 * Updated login features

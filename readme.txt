@@ -2,7 +2,7 @@
 
 Version: 1.3.0
 Stable tag: trunk
-Tested up to: 3.6
+Tested up to: 4.1
 Requires at least: 2.8.4
 Plugin Name: Altos Widgets
 

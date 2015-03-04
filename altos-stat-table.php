@@ -45,7 +45,7 @@ class Altos_Widgets_stat_table_widget /* < Register this widget class. */
 								echo '<tr>';
 								echo '<th colspan="4">';
 								echo ($widget_options["url"]) ? '<a href="' . $widget_options["url"] . '">' : '';
-								echo $widget_options_table->rollingAverage . ' stats for ' . $widget_options_table->residenceType . ' properties in<br />';
+								echo $widget_options_table->rollingAverage . ' stats for ' . $widget_options_table->residenceType . ' properties in<br />' .
 								$widget_options_table->cityName . ', ' . $widget_options_table->state . ' ' . $widget_options_table->zipCode . ' as of ' . $widget_options_table->date;
 								echo ($widget_options["url"]) ? '</a>' : '';
 								echo '</th>';

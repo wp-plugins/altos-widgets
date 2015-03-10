@@ -8,9 +8,9 @@ You should have received a copy of the GNU General Public License.
 If not, see: <http://www.gnu.org/licenses/>.
 */
 /*
-Version: 1.3.0
+Version: 1.3.1
 Stable tag: trunk
-Tested up to: 3.6
+Tested up to: 4.1
 Requires at least: 2.8.4
 Plugin Name: Altos Widgets
 

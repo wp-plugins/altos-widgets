@@ -1,6 +1,6 @@
 === Altos Widgets ===
 
-Version: 1.3.1
+Version: 1.3.2
 Stable tag: trunk
 Tested up to: 4.1
 Requires at least: 2.8.4
@@ -34,6 +34,9 @@ Easily embed tables and charts of current Altos Research real estate statistics 
 2. Altos Widgets / Screenshot #4
 
 == Upgrade Notice ==
+
+= 1.3.2 =
+* Bug fix in update stat table widgets
 
 = 1.3.1 =
 * Bug fix in stat table title

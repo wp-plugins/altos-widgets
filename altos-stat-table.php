@@ -34,7 +34,8 @@ class Altos_Widgets_stat_table_widget /* < Register this widget class. */
 				/**/
 				if ($Altos_Widgets->is_authenticated () && isset ($widget_options["table"]))
 					{
-						$widget_options_table = $widget_options["table"]->response;
+						$widget_options_table = $Altos_Widgets->get_stat_table($widget_options["st"], $widget_options["cid"], $widget_options["zid"], $widget_options["rt"], $widget_options["ra"], $widget_options["q"])->response;
+
 						/**/
 						echo $before_widget . $before_title . $widget_options["title"] . $after_title;
 						/**/
